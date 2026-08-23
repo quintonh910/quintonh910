@@ -1,7 +1,6 @@
 <img width="2172" height="724" alt="quinton_ai_name_banner" src="https://github.com/user-attachments/assets/146deb68-a88f-4daa-9b15-ecc747f470e0" />
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/quintonh910/quintonh910/main/quinton_ai_name_banner.png](https://github.com/user-attachments/assets/146deb68-a88f-4daa-9b15-ecc747f470e0")/>
 
 
 <img
