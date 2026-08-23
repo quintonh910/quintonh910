@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./quinton_ai_name_banner.png" alt="AI-themed profile banner" />
+<img width="100%" src="https://raw.githubusercontent.com/quintonh910/quintonh910/main/quinton_ai_name_banner.png" alt="AI-themed profile banner" />
 
 
 <img
