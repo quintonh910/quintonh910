@@ -1,11 +1,7 @@
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:2563eb&height=210&section=header&text=Quinton%20Hedrick&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20AI%20Full-Stack%20Engineer%20%7C%20AI%2FML%20Platforms%20%7C%20Distributed%20Systems&descAlignY=58&descSize=17"
-/>
+<img width="100%" src="./quinton_ai_name_banner.png" alt="AI-themed profile banner" />
 
-# 👋 Hi, I'm Quinton Hedrick
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2600&pause=1100&center=true&vCenter=true&width=900&height=65&color=38BDF8&lines=Senior+AI+Full-Stack+Engineer;AI+%26+ML+Platform+Builder;Distributed+Systems+Engineer;Cloud+%26+Data+Platform+Architect;Solutions+Engineering+Leader"
@@ -278,10 +274,5 @@ const quinton = {
 <div align="center">
 
 ### 💡 Building reliable AI products, scalable software, and technical solutions people can understand and trust.
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e40af,100:0f172a&height=130&section=footer"
-/>
 
 </div>
