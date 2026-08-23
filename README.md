@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:2563eb&height=180&section=header&text=Josue%20Ochoa%20Figueroa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
 
-# 👋 Hi, I'm Josue Ochoa Figueroa
+# 👋 Hi, I'm Quinton Hedrick
 
 <img 
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1200&center=true&vCenter=true&width=900&height=70&color=38BDF8&lines=I'm+a+Senior+Software+Engineer;I'm+a+Full+Stack+Developer;I'm+an+AI+%26+Cloud+Solutions+Builder" 
